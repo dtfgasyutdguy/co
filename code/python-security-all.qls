@@ -1,0 +1,4 @@
+- description: Security queries for Python
+- queries: .
+- apply: all-security-selectors.yml
+  from: codeql/suite-helpers
